@@ -10,3 +10,7 @@ span {
   font-size: 6em;
   font-family: Arial, sans-serif;
 }
+
+img {
+  max-height: 75vh;
+}
