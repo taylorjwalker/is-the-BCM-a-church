@@ -1,4 +1,5 @@
 const answers = [
+  "no 👏 it 👏 is 👏 not 👏",
   "no",
   "uh-uh",
   "nope",
@@ -16,7 +17,9 @@ const answers = [
   "not likely",
   "thumbs down",
   "fat chance",
-  "go fish"
+  "go fish",
+  "seriously?",
+  "really?"
 ];
 document.getElementById("answer").textContent = answers[
   Math.floor(Math.random() * answers.length)
